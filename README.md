@@ -1,6 +1,11 @@
 # Una simple demo para Club de Gorras.
 ## Consta de un ABM de categorías utilizando React & Redux 
-### Para iniciar la aplicación
+
+### 1) Instalar las dependencias
+```
+npm install
+```
+### 2) Iniciar la aplicación
 ```
 npm start
 ```
